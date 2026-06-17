@@ -48,7 +48,7 @@ I'm a Full-Stack Developer with a deep passion for Machine Learning and data-dri
 
 ## Connect With Me
 
-- 💼 **Professional Network:** linkedin.com/in/cato-jaloch-018643263/
+- 💼 **Professional Network:** https://www.linkedin.com/in/cato-jaloch-018643263/
 - 📧 **Direct Contact:** [Your email address or professional contact point]
 
 <p align="center">
